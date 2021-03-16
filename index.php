@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trainyathri</title>
+    <title>Index</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-light" style="background: #f32409;" > 
   <div class="container-fluid">
