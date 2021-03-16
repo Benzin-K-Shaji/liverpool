@@ -21,9 +21,6 @@
       <a class="nav-link active" aria-current="page" href="aboutus.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">About Us</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
-    </li>
-    <li class="nav-item">
       <a class="nav-link active" aria-current="page" href="ticketbooking.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">Ticketbooking</a>
     </li>
   </li>
