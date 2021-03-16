@@ -18,20 +18,20 @@
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
   <ul class="navbar-nav me-auto mb-2 mb-lg-0">
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="aboutusp.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">About Us</a>
+      <a class="nav-link active" aria-current="page" href="aboutus.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">About Us</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="ticketbookingp.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">ticketbooking</a>
+      <a class="nav-link active" aria-current="page" href="ticketbooking.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">ticketbooking</a>
     </li>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="offersp.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">Offers</a>
+    <a class="nav-link active" aria-current="page" href="offers.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">Offers</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="matchsearchp.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">matchsearch</a>
+    <a class="nav-link active" aria-current="page" href="matchsearch.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">matchsearch</a>
   </li>
   
     
