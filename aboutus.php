@@ -11,7 +11,7 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background: #f32409;" > 
   <div class="container-fluid">
   <img src="logo.jpg" height="45" alt="" >
-<a class="navbar-brand" href="indexp.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">  Home</a>
+<a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif; color: cornsilk;">  Home</a>
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>
